@@ -71,13 +71,25 @@ describe('App e2e', () => {
       });
     });
 
-    describe('Edit user', () => {});
+    describe('Edit user', () => {
+      it.todo('Should edit user');
+    });
   });
   describe('BodyWeight', () => {
-    describe('Log bodyweight ', () => {});
-    describe('Get bodyweight', () => {});
-    describe('Get bodyweight by id', () => {});
-    describe('Edit bodyweight', () => {});
-    describe('Delete bodyweight', () => {});
+    describe('Log bodyweight ', () => {
+      it.todo('Should log bodyweight');
+    });
+    describe('Get bodyweight', () => {
+      it.todo('Should get bodyweight');
+    });
+    describe('Get bodyweight by date', () => {
+      it.todo('Should get bodyweight by date');
+    });
+    describe('Edit bodyweight', () => {
+      it.todo('Should edit bodyweight');
+    });
+    describe('Delete bodyweight', () => {
+      it.todo('Should delete bodyweight');
+    });
   });
 });
