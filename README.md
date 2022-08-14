@@ -137,6 +137,7 @@ Please make sure to update tests as appropriate.
 - Track Nutrition
 - Track Workouts
 - Manage Profile
+- test github connection
 
 ## License
 
